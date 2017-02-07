@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="saidul.com.mynetworkvolleylibaray">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+
+        android:name="saidul.com.mynetworkvolleylibaray.AppController"
+
+        android:supportsRtl="true">
+
+
+
+    </application>
+
+</manifest>
